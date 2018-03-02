@@ -55,6 +55,7 @@ namespace Lands.ViewModels
             this.Password = "1234";
         }
         #endregion
+        
         #region Commands
         public ICommand LoginCommand
         {
